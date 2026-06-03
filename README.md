@@ -1,20 +1,14 @@
-# 🍽️ Zomato Restaurant Data Analysis
+# Alfido Tech Internship
 
-**Alfido Tech Internship Project | Sai Ganesh | June 2025**
+This repository contains the tasks completed as part of the Alfido Tech Internship program.
 
-## 📌 Project Overview
-Analysis of 56,252 Zomato Bangalore restaurant listings to extract insights on ratings, cuisines, location preferences and pricing.
+## Tasks
 
-## 🔗 Links
-- 📓 [Google Colab](./Zomato_Colab_v2%20(1).ipynb)
-- 📄 [Final Report PDF](./Zomato_Final_Report.pdf)
-- ▶️ [Run in Google Colab](https://colab.research.google.com/drive/1NA1NjU5iUo1UrFMhEV_6jgdYWnYBcbj6?usp=sharing)
-
-## 📊 Key Findings
-- Top locations: BTM, Koramangala, Indiranagar
-- Average rating: 3.70 / 5
-- Restaurants with online ordering rate higher (3.72 vs 3.66)
-- Niche cuisines (Burmese, Seafood) outperform mainstream ones
-
-## 🛠️ Tech Stack
-`Python` `Pandas` `Matplotlib` `Seaborn` `WordCloud` `ReportLab`
+### Task 1: Zomato Restaurant Data Analysis
+- Exploratory Data Analysis (EDA)
+- Data Cleaning and Preprocessing
+- Visualizations and Insights
+- Executive Summary Report
+  
+## Author
+VOONNA VENKATA SAI GANESH
